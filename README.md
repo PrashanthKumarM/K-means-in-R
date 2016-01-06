@@ -5,7 +5,9 @@ The aim of this project is to form a simple, understandable k means code for beg
 
 The core k means code is in kmeans.R . The function should be called as below:
 
-					CustomKMeans(< Data Frame of Data without label > , < distance function > , < Average function > , < l matching centroids > , < threshold value to stop > , < Maximum number of iterations > )
+					CustomKMeans(< Data Frame of Data without label > , < distance function > , 
+						< Average function > , < l matching centroids > , < threshold value to stop > , 
+						< Maximum number of iterations > )
 
 As you can see I have also provided several additions to control the result of your k means analysis.
 
